@@ -1,0 +1,1 @@
+line 81, why I am not able to count the alive neighbors?
